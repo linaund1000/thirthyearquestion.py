@@ -1,0 +1,10 @@
+write a program that finds the way to reach last input in three steps and uses 4 math operations (+,-,*,/).
+use first 3 input in order to reach the last input.
+
+for instance:
+ inputs 3 4 5 12
+  output 3 + 4 + 5 = 12
+ input 8 7 3 29
+  output 8 + 7 * 3 = 29
+ 
+4 mat islemini ve ilk uc inputu kullanarak son inputu bulan yolu terminale yazan bir python programi yaz.
